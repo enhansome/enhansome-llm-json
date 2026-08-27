@@ -12,10 +12,10 @@
             "archived": false,
             "id": 587050620,
             "language": "Python",
-            "last_commit": "2026-08-26T00:14:45Z",
+            "last_commit": "2026-08-27T04:48:29Z",
             "owner": "stanfordnlp",
             "repo": "dspy",
-            "stars": 37600
+            "stars": 37618
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-09T14:55:49Z",
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13781
+            "stars": 13786
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-26T04:41:35Z",
+            "last_commit": "2026-08-27T11:26:43Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145010
+            "stars": 145113
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-26T06:18:30Z",
+            "last_commit": "2026-08-27T11:18:02Z",
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 57283
+            "stars": 57383
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 560704231,
             "language": "Python",
-            "last_commit": "2026-08-26T03:42:03Z",
+            "last_commit": "2026-08-27T04:16:34Z",
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51875
+            "stars": 51891
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-21T08:14:54Z",
             "owner": "PrefectHQ",
             "repo": "marvin",
-            "stars": 6191
+            "stars": 6192
           }
         },
         {
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 615403340,
             "language": "Python",
-            "last_commit": "2026-08-25T06:25:40Z",
+            "last_commit": "2026-08-27T08:06:21Z",
             "owner": "dottxt-ai",
             "repo": "outlines",
-            "stars": 15692
+            "stars": 15701
           }
         },
         {
@@ -147,10 +147,10 @@
             "archived": false,
             "id": 90194616,
             "language": "Python",
-            "last_commit": "2026-08-26T05:41:40Z",
+            "last_commit": "2026-08-27T11:34:38Z",
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28617
+            "stars": 28634
           }
         },
         {
@@ -162,10 +162,10 @@
             "archived": false,
             "id": 818331198,
             "language": "Python",
-            "last_commit": "2026-08-26T06:06:26Z",
+            "last_commit": "2026-08-27T10:10:34Z",
             "owner": "pydantic",
             "repo": "pydantic-ai",
-            "stars": 19502
+            "stars": 19528
           }
         },
         {
@@ -177,10 +177,10 @@
             "archived": false,
             "id": 740303686,
             "language": "Python",
-            "last_commit": "2026-08-26T06:19:30Z",
+            "last_commit": "2026-08-27T11:44:45Z",
             "owner": "sgl-project",
             "repo": "sglang",
-            "stars": 32459
+            "stars": 32551
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-08-17T13:04:43Z",
             "owner": "abetlen",
             "repo": "llama-cpp-python",
-            "stars": 10582
+            "stars": 10587
           }
         },
         {
@@ -299,9 +299,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:19:43.851Z",
-    "original_repository": "imaurer/awesome-llm-json",
-    "original_repository_id": 620552483,
+    "last_updated": "2026-08-27T11:47:12.301Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 620552483,
+      "language": null,
+      "last_commit": "2025-02-18T13:48:42Z",
+      "owner": "imaurer",
+      "repo": "awesome-llm-json",
+      "stars": 2172
+    },
     "original_repository_sha": "e7d848673c11e53e4d2b67901b90b11cfdc121eb",
     "enhanced_repository": "enhansome/enhansome-llm-json",
     "enhanced_repository_description": null,
