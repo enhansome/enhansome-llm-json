@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DSPy: The framework for programming—not prompting—language models",
+            "homepage": "https://dspy.ai",
             "id": 587050620,
             "language": "Python",
-            "last_commit": "2026-08-27T23:08:31Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:02:27Z",
+            "open_issues": 639,
             "owner": "stanfordnlp",
             "repo": "dspy",
-            "stars": 37635
+            "stars": 37641,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -26,12 +31,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pydantic extension for annotating autocorrecting fields.",
+            "homepage": "https://genomoncology.com",
             "id": 759087350,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-20T19:10:55Z",
+            "open_issues": 0,
             "owner": "genomoncology",
             "repo": "FuzzTypes",
-            "stars": 219
+            "stars": 219,
+            "topics": [
+              "data-cleaning",
+              "fuzzy-string-matching",
+              "named-entity-linking",
+              "pydantic"
+            ]
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -42,12 +57,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A guidance language for controlling large language models.",
+            "homepage": null,
             "id": 564443255,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-05-21T17:08:04Z",
+            "open_issues": 321,
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21729
+            "stars": 21730,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -58,12 +78,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "structured outputs for llms ",
+            "homepage": "https://python.useinstructor.com/",
             "id": 653589102,
             "language": "Python",
-            "last_commit": "2026-08-28T15:09:21Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:44:55Z",
+            "open_issues": 39,
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 13793
+            "stars": 13794,
+            "topics": [
+              "openai",
+              "openai-function-calli",
+              "openai-functions",
+              "pydantic-v2",
+              "python",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -74,12 +106,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent engineering platform.",
+            "homepage": "https://docs.langchain.com/langchain/",
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-28T16:19:21Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:20:17Z",
+            "open_issues": 431,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145195
+            "stars": 145216,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "deepagents",
+              "enterprise",
+              "framework",
+              "gemini",
+              "generative-ai",
+              "langchain",
+              "langgraph",
+              "llm",
+              "multiagent",
+              "open-source",
+              "openai",
+              "pydantic",
+              "python",
+              "rag",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -90,12 +148,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+            "homepage": "https://docs.litellm.ai/docs/",
             "id": 671269505,
             "language": "Python",
-            "last_commit": "2026-08-28T17:41:54Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:09:51Z",
+            "open_issues": 4854,
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 57489
+            "stars": 57506,
+            "topics": [
+              "ai-gateway",
+              "anthropic",
+              "azure-openai",
+              "bedrock",
+              "gateway",
+              "langchain",
+              "litellm",
+              "llm",
+              "llm-gateway",
+              "llmops",
+              "mcp-gateway",
+              "openai",
+              "openai-proxy",
+              "rust",
+              "rust-ai",
+              "vertex-ai"
+            ]
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -106,12 +186,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LlamaIndex is the leading document agent and OCR platform",
+            "homepage": "https://developers.llamaindex.ai",
             "id": 560704231,
             "language": "Python",
-            "last_commit": "2026-08-28T15:33:53Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:43:47Z",
+            "open_issues": 670,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 51907
+            "stars": 51909,
+            "topics": [
+              "agents",
+              "application",
+              "data",
+              "fine-tuning",
+              "framework",
+              "llamaindex",
+              "llm",
+              "multi-agents",
+              "rag",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -122,12 +218,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an ambient intelligence library",
+            "homepage": "https://marvin.mintlify.app",
             "id": 612350395,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T08:14:54Z",
+            "open_issues": 114,
             "owner": "PrefectHQ",
             "repo": "marvin",
-            "stars": 6192
+            "stars": 6192,
+            "topics": [
+              "agents",
+              "ai",
+              "ambient-ai",
+              "chatbots",
+              "gpt",
+              "llm",
+              "nli",
+              "python",
+              "structured-outputs"
+            ]
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -138,12 +249,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Structured Outputs",
+            "homepage": "https://dottxt-ai.github.io/outlines/",
             "id": 615403340,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:53:04Z",
+            "open_issues": 163,
             "owner": "dottxt-ai",
             "repo": "outlines",
-            "stars": 15708
+            "stars": 15709,
+            "topics": [
+              "cfg",
+              "generative-ai",
+              "json",
+              "llms",
+              "prompt-engineering",
+              "regex",
+              "structured-generation",
+              "symbolic-ai"
+            ]
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -154,12 +279,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data validation using Python type hints",
+            "homepage": "https://pydantic.dev/docs/validation",
             "id": 90194616,
             "language": "Python",
-            "last_commit": "2026-08-28T14:05:46Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:22:21Z",
+            "open_issues": 578,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 28658
+            "stars": 28659,
+            "topics": [
+              "hints",
+              "json-schema",
+              "parsing",
+              "pydantic",
+              "python",
+              "python310",
+              "python311",
+              "python312",
+              "python313",
+              "python39",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -170,12 +312,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+            "homepage": "https://pydantic.dev/pydantic-ai",
             "id": 818331198,
             "language": "Python",
-            "last_commit": "2026-08-28T17:03:28Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:21:33Z",
+            "open_issues": 749,
             "owner": "pydantic",
             "repo": "pydantic-ai",
-            "stars": 19561
+            "stars": 19567,
+            "topics": [
+              "agent-framework",
+              "genai",
+              "harness",
+              "harness-engineering",
+              "llm",
+              "pydantic",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -186,12 +341,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+            "homepage": "https://sglang.io",
             "id": 740303686,
             "language": "Python",
-            "last_commit": "2026-08-28T17:41:39Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:21:17Z",
+            "open_issues": 4994,
             "owner": "sgl-project",
             "repo": "sglang",
-            "stars": 32626
+            "stars": 32641,
+            "topics": [
+              "attention",
+              "blackwell",
+              "cuda",
+              "deepseek",
+              "diffusion",
+              "glm",
+              "gpt-oss",
+              "inference",
+              "llama",
+              "llm",
+              "minimax",
+              "moe",
+              "qwen",
+              "qwen-image",
+              "reinforcement-learning",
+              "transformer",
+              "vlm",
+              "wan"
+            ]
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -202,12 +381,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient and general syntactical decoding for Large Language Models",
+            "homepage": "https://structuredllm.com",
             "id": 687211074,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-19T11:04:53Z",
+            "open_issues": 18,
             "owner": "structuredllm",
             "repo": "syncode",
-            "stars": 338
+            "stars": 338,
+            "topics": [
+              "grammar",
+              "large-language-models",
+              "llm",
+              "llm-inference",
+              "parser"
+            ]
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -218,12 +408,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The LLM Anti-Framework",
+            "homepage": "https://mirascope.com",
             "id": 727495773,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:14:42Z",
+            "open_issues": 16,
             "owner": "Mirascope",
             "repo": "mirascope",
-            "stars": 1523
+            "stars": 1523,
+            "topics": [
+              "artificial-intelligence",
+              "developer-tools",
+              "llm",
+              "llm-agent",
+              "llm-tools",
+              "python",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -234,12 +437,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Seamlessly integrate LLMs as Python functions",
+            "homepage": "https://magentic.dev/",
             "id": 655155250,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-11T13:44:45Z",
+            "open_issues": 50,
             "owner": "jackmpcollins",
             "repo": "magentic",
-            "stars": 2415
+            "stars": 2416,
+            "topics": [
+              "agent",
+              "agentic",
+              "ai",
+              "chatbot",
+              "chatgpt",
+              "gpt",
+              "llm",
+              "magenta",
+              "magentic",
+              "magnetic",
+              "openai",
+              "openai-api",
+              "prompt",
+              "pydantic"
+            ]
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -250,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Formatron empowers everyone to control the format of language models' output with minimal overhead.",
+            "homepage": null,
             "id": 729290121,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-07T04:31:41Z",
+            "open_issues": 14,
             "owner": "Dan-wanna-M",
             "repo": "formatron",
-            "stars": 237
+            "stars": 237,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -266,12 +494,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤗 A specialized library for integrating context-free grammars (CFG) in EBNF with the Hugging Face Transformers",
+            "homepage": "http://saibo-creator.xyz:7860/",
             "id": 728688340,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-13T13:55:25Z",
+            "open_issues": 18,
             "owner": "epfl-dlab",
             "repo": "transformers-CFG",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         }
@@ -288,12 +521,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python bindings for llama.cpp",
+            "homepage": "https://llama-cpp-python.readthedocs.io",
             "id": 617868717,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T13:04:43Z",
+            "open_issues": 680,
             "owner": "abetlen",
             "repo": "llama-cpp-python",
-            "stars": 10589
+            "stars": 10590,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         },
@@ -304,12 +542,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demos of ChatGPT's function calling/structured data support.",
+            "homepage": null,
             "id": 733347479,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-12-21T02:21:52Z",
+            "open_issues": 0,
             "owner": "minimaxir",
             "repo": "chatgpt-structured-data",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
         }
@@ -318,15 +561,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:43:10.892Z",
+    "last_updated": "2026-08-29T04:24:20.142Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.",
+      "homepage": "https://genomoncology.com/",
       "id": 620552483,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-02-18T13:48:42Z",
+      "open_issues": 0,
       "owner": "imaurer",
       "repo": "awesome-llm-json",
-      "stars": 2172
+      "stars": 2172,
+      "topics": [
+        "awesome-list",
+        "function-calling",
+        "gpt-actions",
+        "large-language-models",
+        "llm",
+        "structured-generation"
+      ]
     },
     "original_repository_sha": "e7d848673c11e53e4d2b67901b90b11cfdc121eb",
     "enhanced_repository": "enhansome/enhansome-llm-json",
