@@ -82,33 +82,33 @@ Below is a list of hosted API models that support multiple parallel function cal
 
 ## Python Libraries
 
-[DSPy](https://github.com/stanfordnlp/dspy) ⭐ 37,849 | 🐛 656 | 🌐 Python | 📅 2026-09-05 (MIT) is a framework for algorithmically optimizing LM prompts and weights. DSPy introduced [typed predictor and signatures](https://github.com/entropy/dspy/blob/main/docs/docs/building-blocks/8-typed_predictors.md) to leverage [Pydantic](https://github.com/pydantic/pydantic) ⭐ 28,738 | 🐛 577 | 🌐 Python | 📅 2026-09-08 for enforcing type constraints on inputs and outputs, improving upon string-based fields.
+[DSPy](https://github.com/stanfordnlp/dspy) ⭐ 37,873 | 🐛 660 | 🌐 Python | 📅 2026-09-05 (MIT) is a framework for algorithmically optimizing LM prompts and weights. DSPy introduced [typed predictor and signatures](https://github.com/entropy/dspy/blob/main/docs/docs/building-blocks/8-typed_predictors.md) to leverage [Pydantic](https://github.com/pydantic/pydantic) ⭐ 28,746 | 🐛 572 | 🌐 Python | 📅 2026-09-09 for enforcing type constraints on inputs and outputs, improving upon string-based fields.
 
 [FuzzTypes](https://github.com/genomoncology/FuzzTypes) ⚠️ Archived (MIT) extends Pydantic with autocorrecting annotation types for enhanced data normalization and handling of complex types like emails, dates, and custom entities.
 
-[guidance](https://github.com/guidance-ai/guidance) ⭐ 21,741 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2026-05-21 (Apache-2.0) enables constrained generation, interleaving Python logic with LLM calls, reusable functions, and calling external tools. Optimizes prompts for faster generation.
+[guidance](https://github.com/guidance-ai/guidance) ⭐ 21,742 | 🐛 323 | 🌐 Jupyter Notebook | 📅 2026-05-21 (Apache-2.0) enables constrained generation, interleaving Python logic with LLM calls, reusable functions, and calling external tools. Optimizes prompts for faster generation.
 
-[Instructor](https://github.com/jxnl/instructor) ⭐ 13,842 | 🐛 44 | 🌐 Python | 📅 2026-09-07 (MIT) simplifies generating structured data from LLMs using Function Calling, Tool Calling, and constrained sampling modes. Built on Pydantic for validation and supports various LLMs.
+[Instructor](https://github.com/jxnl/instructor) ⭐ 13,852 | 🐛 47 | 🌐 Python | 📅 2026-09-09 (MIT) simplifies generating structured data from LLMs using Function Calling, Tool Calling, and constrained sampling modes. Built on Pydantic for validation and supports various LLMs.
 
-[LangChain](https://github.com/langchain-ai/langchain) ⭐ 145,923 | 🐛 457 | 🌐 Python | 📅 2026-09-08 (MIT) provides an interface for chains, integrations with other tools, and chains for applications. LangChain offers [structured outputs](https://python.langchain.com/docs/how_to/structured_output/) and [tool calling](https://python.langchain.com/docs/how_to/tool_calling/) across models.
+[LangChain](https://github.com/langchain-ai/langchain) ⭐ 145,995 | 🐛 464 | 🌐 Python | 📅 2026-09-09 (MIT) provides an interface for chains, integrations with other tools, and chains for applications. LangChain offers [structured outputs](https://python.langchain.com/docs/how_to/structured_output/) and [tool calling](https://python.langchain.com/docs/how_to/tool_calling/) across models.
 
-[LiteLLM](https://github.com/BerriAI/litellm) ⭐ 58,269 | 🐛 4,968 | 🌐 Python | 📅 2026-09-08 (MIT) simplifies calling 100+ LLMs in the OpenAI format, supporting [function calling](https://docs.litellm.ai/docs/completion/function_call), tool calling, and JSON mode.
+[LiteLLM](https://github.com/BerriAI/litellm) ⭐ 58,350 | 🐛 4,993 | 🌐 Python | 📅 2026-09-09 (MIT) simplifies calling 100+ LLMs in the OpenAI format, supporting [function calling](https://docs.litellm.ai/docs/completion/function_call), tool calling, and JSON mode.
 
-[LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 52,072 | 🐛 731 | 🌐 Python | 📅 2026-09-05 (MIT) provides [modules for structured outputs](https://docs.llamaindex.ai/en/stable/module_guides/querying/structured_outputs/structured_outputs.html) at different levels of abstraction, including output parsers for text completion endpoints, [Pydantic programs](https://docs.llamaindex.ai/en/stable/module_guides/querying/structured_outputs/pydantic_program.html) for mapping prompts to structured outputs using function calling or output parsing, and pre-defined Pydantic programs for specific output types.
+[LlamaIndex](https://github.com/run-llama/llama_index) ⭐ 52,087 | 🐛 743 | 🌐 Python | 📅 2026-09-08 (MIT) provides [modules for structured outputs](https://docs.llamaindex.ai/en/stable/module_guides/querying/structured_outputs/structured_outputs.html) at different levels of abstraction, including output parsers for text completion endpoints, [Pydantic programs](https://docs.llamaindex.ai/en/stable/module_guides/querying/structured_outputs/pydantic_program.html) for mapping prompts to structured outputs using function calling or output parsing, and pre-defined Pydantic programs for specific output types.
 
-[Marvin](https://github.com/PrefectHQ/marvin) ⭐ 6,193 | 🐛 112 | 🌐 Python | 📅 2026-08-21 (Apache-2.0) is a lightweight toolkit for building reliable natural language interfaces with self-documenting tools for tasks like entity extraction and multi-modal support.
+[Marvin](https://github.com/PrefectHQ/marvin) ⭐ 6,193 | 🐛 112 | 🌐 Python | 📅 2026-09-09 (Apache-2.0) is a lightweight toolkit for building reliable natural language interfaces with self-documenting tools for tasks like entity extraction and multi-modal support.
 
-[Outlines](https://github.com/outlines-dev/outlines) ⭐ 15,761 | 🐛 159 | 🌐 Python | 📅 2026-09-04 (Apache-2.0) facilitates structured text generation using multiple models, Jinja templating, and support for regex patterns, JSON schemas, Pydantic models, and context-free grammars.
+[Outlines](https://github.com/outlines-dev/outlines) ⭐ 15,766 | 🐛 159 | 🌐 Python | 📅 2026-09-04 (Apache-2.0) facilitates structured text generation using multiple models, Jinja templating, and support for regex patterns, JSON schemas, Pydantic models, and context-free grammars.
 
-[Pydantic](https://github.com/pydantic/pydantic) ⭐ 28,738 | 🐛 577 | 🌐 Python | 📅 2026-09-08 (MIT) simplifies working with data structures and JSON through data model definition, validation, JSON schema generation, and seamless parsing and serialization.
+[Pydantic](https://github.com/pydantic/pydantic) ⭐ 28,746 | 🐛 572 | 🌐 Python | 📅 2026-09-09 (MIT) simplifies working with data structures and JSON through data model definition, validation, JSON schema generation, and seamless parsing and serialization.
 
-[PydanticAI](https://github.com/pydantic/pydantic-ai) ⭐ 19,787 | 🐛 835 | 🌐 Python | 📅 2026-09-08 (MIT) is a Python agent framework designed to make it less painful to build production grade applications with Generative AI.
+[PydanticAI](https://github.com/pydantic/pydantic-ai) ⭐ 19,825 | 🐛 843 | 🌐 Python | 📅 2026-09-09 (MIT) is a Python agent framework designed to make it less painful to build production grade applications with Generative AI.
 
-[SGLang](https://github.com/sgl-project/sglang) ⭐ 35,627 | 🐛 5,151 | 🌐 Python | 📅 2026-09-08 (MPL-2.0) allows specifying JSON schemas using regular expressions or Pydantic models for constrained decoding. Its high-performance runtime accelerates JSON decoding.
+[SGLang](https://github.com/sgl-project/sglang) ⭐ 35,683 | 🐛 5,170 | 🌐 Python | 📅 2026-09-09 (MPL-2.0) allows specifying JSON schemas using regular expressions or Pydantic models for constrained decoding. Its high-performance runtime accelerates JSON decoding.
 
 [SynCode](https://github.com/uiuc-focal-lab/syncode) ⭐ 339 | 🐛 18 | 🌐 Python | 📅 2026-01-19 (MIT) is a framework for the grammar-guided generation of Large Language Models (LLMs). It supports CFG for Python, Go, Java, JSON, YAML, and many more.
 
-[Mirascope](https://github.com/Mirascope/mirascope) ⭐ 1,524 | 🐛 16 | 🌐 Python | 📅 2026-09-08 (MIT) is an LLM toolkit that supports structured extraction with an intuitive python API.
+[Mirascope](https://github.com/Mirascope/mirascope) ⭐ 1,525 | 🐛 16 | 🌐 Python | 📅 2026-09-08 (MIT) is an LLM toolkit that supports structured extraction with an intuitive python API.
 
 [Magnetic](https://github.com/jackmpcollins/magentic) ⭐ 2,424 | 🐛 50 | 🌐 Python | 📅 2026-03-11 (MIT) call LLMs from Python using 3 lines of code. Simply use the @prompt decorator to create functions that return structured output from the LLM, powered by Pydantic.
 
@@ -170,4 +170,4 @@ Below is a list of hosted API models that support multiple parallel function cal
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
