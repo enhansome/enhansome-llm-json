@@ -19,7 +19,7 @@
             "open_issues": 829,
             "owner": "stanfordnlp",
             "repo": "dspy",
-            "stars": 38764,
+            "stars": 38776,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
@@ -66,7 +66,7 @@
             "open_issues": 355,
             "owner": "guidance-ai",
             "repo": "guidance",
-            "stars": 21807,
+            "stars": 21809,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
@@ -84,10 +84,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-20T21:58:42Z",
-            "open_issues": 220,
+            "open_issues": 222,
             "owner": "567-labs",
             "repo": "instructor",
-            "stars": 14059,
+            "stars": 14061,
             "topics": [
               "openai",
               "openai-function-calli",
@@ -111,11 +111,11 @@
             "id": 552661142,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T08:27:54Z",
-            "open_issues": 672,
+            "last_commit": "2026-10-25T10:03:28Z",
+            "open_issues": 677,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 148351,
+            "stars": 148407,
             "topics": [
               "agents",
               "ai",
@@ -153,11 +153,11 @@
             "id": 671269505,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T09:34:16Z",
-            "open_issues": 5668,
+            "last_commit": "2026-10-25T09:39:17Z",
+            "open_issues": 5674,
             "owner": "BerriAI",
             "repo": "litellm",
-            "stars": 61942,
+            "stars": 61997,
             "topics": [
               "ai-gateway",
               "anthropic",
@@ -192,10 +192,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-23T13:51:39Z",
-            "open_issues": 1051,
+            "open_issues": 1060,
             "owner": "run-llama",
             "repo": "llama_index",
-            "stars": 52639,
+            "stars": 52657,
             "topics": [
               "agents",
               "application",
@@ -227,7 +227,7 @@
             "open_issues": 119,
             "owner": "PrefectHQ",
             "repo": "marvin",
-            "stars": 6208,
+            "stars": 6207,
             "topics": [
               "agents",
               "ai",
@@ -258,7 +258,7 @@
             "open_issues": 201,
             "owner": "dottxt-ai",
             "repo": "outlines",
-            "stars": 15973,
+            "stars": 15975,
             "topics": [
               "cfg",
               "generative-ai",
@@ -288,7 +288,7 @@
             "open_issues": 593,
             "owner": "pydantic",
             "repo": "pydantic",
-            "stars": 29162,
+            "stars": 29169,
             "topics": [
               "hints",
               "json-schema",
@@ -317,11 +317,11 @@
             "id": 818331198,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T04:33:31Z",
-            "open_issues": 1513,
+            "last_commit": "2026-10-25T07:52:34Z",
+            "open_issues": 1479,
             "owner": "pydantic",
             "repo": "pydantic-ai",
-            "stars": 20827,
+            "stars": 20855,
             "topics": [
               "agent-framework",
               "genai",
@@ -346,11 +346,11 @@
             "id": 740303686,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-24T09:40:18Z",
-            "open_issues": 6136,
+            "last_commit": "2026-10-25T10:06:51Z",
+            "open_issues": 6170,
             "owner": "sgl-project",
             "repo": "sglang",
-            "stars": 37685,
+            "stars": 38119,
             "topics": [
               "attention",
               "blackwell",
@@ -414,7 +414,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-24T00:32:41Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "Mirascope",
             "repo": "mirascope",
             "stars": 1535,
@@ -530,7 +530,7 @@
             "open_issues": 698,
             "owner": "abetlen",
             "repo": "llama-cpp-python",
-            "stars": 10656,
+            "stars": 10658,
             "topics": []
           },
           "first_seen": "2026-08-28T17:43:10.892Z"
@@ -561,7 +561,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:48:53.927Z",
+    "last_updated": "2026-10-25T10:10:51.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resource list for generating JSON using LLMs via function calling, tools, CFG. Libraries, Models, Notebooks, etc.",
